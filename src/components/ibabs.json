@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "Pounded Yam with Efo Riro",
+    "price": "$19.99",
+    "img": "/assest/efo.webp",
+    "Description": "Delicious pounded yam served with efo riro, a traditional Nigerian soup made with spinach, tomatoes, and assorted meats."
+  },
+
+  {
+    "id": 2,
+    "name": "Pounded Yam with Okro Seafood",
+    "price": "$14.99",
+    "img": "/assest/okraa.jpeg",
+    "Description": " Delicious pounded yam served with okro seafood, a traditional Nigerian soup made with okra, seafood, and assorted meats."
+  },
+  {
+    "id": 3,
+    "name": "Pounded Yam with Ogbono Soup",
+    "price": "$17.99",
+    "img": "/assest/ogbono.jpg",
+    "Description": "Delicious pounded yam served with ogbono soup, a traditional Nigerian soup made with ogbono seeds, spinach, and assorted meats."
+  },
+  {
+    "id": 4,
+    "name": "Pounded Yam with Egusi Soup",
+    "price": "$18.99",
+    "img": "/assest/egusi.jpg",
+    "Description": "Egusi soup is a traditional Nigerian soup made with melon seeds, spinach, and assorted meats. It is often served with pounded yam."
+  },
+  {
+    "id": 5,
+    "name": "Pounded Yam with Banga Soup",
+    "price": "$16.99",
+    "img": "/assest/Banga Soup.jpeg",
+    "Description": "Banga soup is a traditional Nigerian soup made with palm nut extract, spinach, and assorted meats. It is often served with pounded yam."
+  },
+  {
+    "id": 6,
+    "name": "Pounded Yam with Afang Soup",
+    "price": "$18.99",
+    "img": "/assest/Afang Soup.jpg",
+    "Description": "Afang soup is a traditional Nigerian soup made with a combination of vegetables, spinach, and assorted meats. It is often served with pounded yam."
+  },
+  {
+    "id": 7,
+    "name": "Pounded Yam with Edikang Ikong Soup",
+    "price": "$12.99",
+    "img": "/assest/Edikang Ikong Soup.webp",
+    "Description": "Edikang Ikong soup is a traditional Nigerian soup made with a combination of vegetables, spinach, and assorted meats. It is often served with pounded yam."
+  },
+  {
+    "id": 8,
+    "name": "Pounded Yam with Oha Soup",
+    "price": "$15.99",
+    "img": "/assest/Oha Soup.jpeg",
+    "Description": "Oha soup is a traditional Nigerian soup made with oha leaves, spinach, and assorted meats. It is often served with pounded yam."
+  },
+  {
+    "id": 9,
+    "name": "Pounded Yam with Bitterleaf Soup",
+    "price": "$19.99",
+    "img": "/assest/Bitterleaf Soup.jpeg",
+    "Description": "Bitterleaf soup is a traditional Nigerian soup made with bitterleaf, spinach, and assorted meats. It is often served with pounded yam."
+  },
+  {
+    "id": 10,
+    "name": "Pounded Yam with White Soup",
+    "price": "$18.99",
+    "img": "/assest/White Soup.jpg",
+    "Description": "White soup is a traditional Nigerian soup made with a combination of vegetables, spinach, and assorted meats. It is often served with pounded yam."
+  },
+  {
+    "id": 11,
+    "name": "Pounded Yam with Ofe Owerri",
+    "price": "$16.99",
+    "img": "/assest/Ofe Owerri.jpg",
+    "Description": "Ofe Owerri is a traditional Nigerian soup made with a combination of vegetables, spinach, and assorted meats. It is often served with pounded yam."
+  },
+  {
+    "id": 12,
+    "name": "Pounded Yam with Ofe Nsala",
+    "price": "13.99",
+    "img": "/assest/Ofe Nsala.jpeg",
+    "Description": "Ofe Nsala is a traditional Nigerian soup made with a combination of vegetables, spinach, and assorted meats. It is often served with pounded yam."
+  }
+  
+]

@@ -1,0 +1,9 @@
+.User{
+  background-color: white;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  width: solid 1px grey;
+  border-radius: 10px;
+}
+

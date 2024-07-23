@@ -1,25 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Navigation from './components/Navigation'
+import './App.css'
+import Hero from './Hero'
+import Card from './Card'
+import data from "./components/ibabs.json";
+import Footer from './components/Footer/Footer'
+import Users from './components/Users'
+import Userinfo from './components/Userinfo'
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <Navigation/>
+    <Hero/>
+    <Users/>
+    
+    {/* <Userinfo/> */}
+    <div style={{
+        display:"flex",
+        flexWrap:"wrap",
+        justifyContent:"space-evenly"
+      }}>
+        {data.map((i) => (<Card key={i.id} {...i} />
+        ))}
+      </div>
+        <Footer/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
+
+
+
+
+
+
+
+
+
+
