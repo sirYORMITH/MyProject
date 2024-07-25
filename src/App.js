@@ -5,8 +5,8 @@ import Hero from './Hero'
 import Card from './Card'
 import data from "./components/ibabs.json";
 import Footer from './components/Footer/Footer'
-import Users from './components/Users'
-import Userinfo from './components/Userinfo'
+// import Users from './components/Users'
+// import Userinfo from './components/Userinfo'
 
 
 
@@ -15,7 +15,7 @@ function App() {
     <div>
     <Navigation/>
     <Hero/>
-    <Users/>
+    {/* <Users/> */}
     
     {/* <Userinfo/> */}
     <div style={{
